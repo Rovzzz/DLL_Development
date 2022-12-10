@@ -1,0 +1,3 @@
+﻿  DLL.c
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ _main.
+C:\Users\1290743\Desktop\Системное программирование\DLL_Development\Release\DLL.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
